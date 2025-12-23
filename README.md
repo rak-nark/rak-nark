@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Rak-Nark!
+# 👋 ¡Hola, soy RakNark!
 
 🎓 Soy aprendiz de **Desarrollo y Análisis de Software** con una gran motivación por seguir creciendo en el mundo de la tecnología.  
 🔍 Me gusta explorar nuevas herramientas, aprender de cada línea de código y construir soluciones útiles que marquen la diferencia.  
